@@ -26,9 +26,22 @@ In addition to individual projects, this repository also references collaborativ
 ### 4. Recurrent Neural Networks & Reinforcement Learning
 - Vanilla RNN and LSTM for the Adding Problem (sequence regression)  
 - Value Iteration and Q-Learning agents applied to **GridWorld**, **Crawler**, and **Pacman**  
-- Approximate Q-Learning using feature-based representations  
+- Approximate Q-Learning using feature-based representations
 
-### 5. Predicting Disease-Causing Mutations (Bioinformatics Hackathon 2024)
+### 5. RL-Based Medication Adjustment for Speech Disfluency *(Research Project)*
+- Conducted as part of a research project under the supervision of Prof. Michela Rughazroy, in collaboration with UofT Engineering students  
+- Helped with data collection, research and development a reinforcement learning-based system aimed at adjusting medication to reduce speech disfluency  
+- [Published Paper](https://paperswithcode.com/search?q=author%3ANajma+Sultani)
+
+### 6. Stress Detection with EEG & ECG (STEM Fellowship AI Challenge 2024)
+- Built a multi-perceptron neural network to classify stress levels (normal, high, low) using EEG and ECG signals  
+- Processed signals from 40 participants during mental arithmetic tasks  
+- Achieved competitive performance (~62% accuracy) compared to models like SVM, RF, and AdaBoost  
+- Project published on the STEM Fellowship website  
+- [GitHub Repository](https://github.com/muqriher72/IUBDC2024-Biologic)  
+- [Published Paper](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2024-010)
+
+### 7. Predicting Disease-Causing Mutations (Bioinformatics Hackathon 2024)
 - Developed during a bioinformatics hackathon in Jan 2024  
 - Built a machine learning model to predict whether a genetic sequence contains mutations related to **Alzheimer’s disease**, with a focus on **women's health**
 - Used genomic mutation data from **DSS NIAGADS** and **GenomeKit**, filtered based on p-values < 0.05  
@@ -38,7 +51,7 @@ In addition to individual projects, this repository also references collaborativ
 - Future improvements include increasing accessibility for clinicians and refining mutation localization  
 - 🔗 [View Project Repository](https://devpost.com/software/predicing-disease-causing-mutations) <!-- Replace with actual URL -->
 
-### 6. SmartStudy: Personalized Academic Recommendation System *(ECE324-Machine Intelligence, Software and Neural Networks Course Project)*
+### 8. SmartStudy: Personalized Academic Recommendation System *(ECE324-Machine Intelligence, Software and Neural Networks Course Project)*
 - A collaborative project focused on predicting and improving student GPA based on lifestyle and study patterns  
 - Models used: **TabPFN**, **CatBoost**, **XGBoost**, **MLP**, **TabNet**, **1D CNN**, and stacked ensembles  
 - Used **Bayesian Optimization** to recommend behavior changes that match students’ GPA goals  
@@ -46,8 +59,8 @@ In addition to individual projects, this repository also references collaborativ
 - Includes a **Gradio web app** for user interaction  
 - [🔗 View Project Repository](https://github.com/elorie-bernard-lacroix/SmartStudy) <!-- Replace with actual URL -->
 
-### 7. Cognify AI: Adaptive Learning Assistant for Kids *(Private Project)*
-- Built as part of the **UTESCA x DeepPiXEL** consulting initiative  
+### 9. Cognify AI: Adaptive Learning Assistant for Kids *(UTESCA Project)*
+- Built as part of the **UTESCA x DeepPiXEL** consulting initiative as ML Developer 
 - A GenAI solution for personalized education targeting children aged 8–12  
 - I contributed as an **ML developer** focusing on integrating multiple AI models  
 - Features include:
