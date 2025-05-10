@@ -1,6 +1,8 @@
 # Machine Learning Projects
 
-This repository contains a growing collection of my machine learning projects. These examples demonstrate my understanding of core ML concepts including classification, regression, optimization, neural networks, and reinforcement learning using tools like **NumPy**, **scikit-learn**, and **PyTorch**.
+This repository showcases a growing collection of my machine learning projects, ranging from classic ML algorithms to advanced deep learning and applied research. These examples highlight my experience with classification, regression, optimization, neural networks, reinforcement learning, and bioinformatics. Projects are implemented using tools like **NumPy**, **scikit-learn**, **PyTorch**, **LangChain**, and **transformers**.
+
+In addition to individual projects, this repository also references collaborative work such as **SmartStudy** (academic habit optimizer using GPT-4 and TabPFN) and **Cognify AI** (an AI-powered educational assistant for kids built with DeepPiXEL and UTESCA).
 
 ---
 
