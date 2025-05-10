@@ -21,11 +21,11 @@ This project is a personal implementation of core machine learning algorithms wi
 ## 📁 File Overview
 - `myTorch.py` – Core implementation of optimization methods and logistic regression
 - `util.py` – Utility functions and training helpers
-- `tests_A2.py` – Includes test cases to verify correctness of each module
+- `test.py` – Includes test cases to verify correctness of each module
 
 ## 🧪 How to Run
 ```bash
-python tests_A2.py
+python test.py
 ```
 
 This runs a series of unit tests to evaluate convergence behavior, performance of different optimizers, and classification accuracy.
@@ -34,9 +34,5 @@ This runs a series of unit tests to evaluate convergence behavior, performance o
 - Python 3.8+
 - NumPy only (No PyTorch, TensorFlow, or scikit-learn used)
 
-## 🔧 Installation
-```bash
-pip install -r requirements.txt
-```
 ## 📝 Author
 Developed as a part of ECE421 – Introduction to Machine Learning at the University of Toronto (Fall 2024)
