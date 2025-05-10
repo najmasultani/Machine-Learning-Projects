@@ -34,10 +34,5 @@ pip install -r requirements.txt
 # Then, you can run training and testing via model.py and util.py (or via provided notebook)
 ```
 
-## 🧠 Learning Highlights
-- Developed neural network layers, activations, and loss functions from scratch
-- Understood forward and backward propagation mathematically and programmatically
-- Compared NumPy-based implementation with PyTorch for model training and evaluation
-
 ## 📝 Author
 Developed by Najma Sultani as part of ECE421 – Introduction to Machine Learning at University of Toronto, Fall 2024
