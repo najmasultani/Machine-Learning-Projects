@@ -6,7 +6,7 @@ In addition to individual projects, this repository also references collaborativ
 
 ---
 
-## Projects Included
+## 🧠 Projects Included
 
 ### 1. Pocket Algorithm & Linear Regression
 - Implemented binary classification using the Pocket Algorithm on the IRIS dataset  
@@ -38,7 +38,7 @@ In addition to individual projects, this repository also references collaborativ
 - Future improvements include increasing accessibility for clinicians and refining mutation localization  
 - 🔗 [View Project Repository](https://devpost.com/software/predicing-disease-causing-mutations) <!-- Replace with actual URL -->
 
-### 6. SmartStudy: Personalized Academic Recommendation System *(Collaborative Project)*
+### 6. SmartStudy: Personalized Academic Recommendation System *(ECE324-Machine Intelligence, Software and Neural Networks Course Project)*
 - A collaborative project focused on predicting and improving student GPA based on lifestyle and study patterns  
 - Models used: **TabPFN**, **CatBoost**, **XGBoost**, **MLP**, **TabNet**, **1D CNN**, and stacked ensembles  
 - Used **Bayesian Optimization** to recommend behavior changes that match students’ GPA goals  
