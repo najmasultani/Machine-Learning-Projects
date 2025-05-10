@@ -38,13 +38,5 @@ This runs a series of unit tests to evaluate convergence behavior, performance o
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📚 Learning Outcomes
-- Built a mini-version of PyTorch’s optimizer and model training pipeline
-- Understood the strengths and weaknesses of SGD, Momentum, and Adam
-- Gained hands-on experience implementing multiclass classification using only NumPy
-
 ## 📝 Author
-Developed by Najma Sultani  
-Course: ECE421 – Introduction to Machine Learning  
-Institution: University of Toronto (Fall 2024)
+Developed as a part of ECE421 – Introduction to Machine Learning at the University of Toronto (Fall 2024)
