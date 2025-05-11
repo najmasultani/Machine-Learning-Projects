@@ -61,8 +61,9 @@ In addition to individual projects, this repository also references collaborativ
 
 ### 9. Cognify AI: Adaptive Learning Assistant for Kids *(UTESCA Project)*
 - Built as part of the **UTESCA x DeepPiXEL** consulting initiative as ML Developer 
-- A GenAI solution for personalized education targeting children aged 8–12  
-- I contributed as an **ML developer** focusing on integrating multiple AI models  
+- A GenAI solution for personalized education targeting children aged 8–12
+- Won People' Choice Award at URESCA CEP 2025 event
+- I contributed as an **ML developer** focusing on integrating multiple AI models
 - Features include:
   - Text chat using **LangChain + GPT-3.5**  
   - Voice chat via **Whisper + GPT + gTTS**  
